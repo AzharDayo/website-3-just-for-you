@@ -1,0 +1,1 @@
+Twemoji graphics by Twitter, Inc. and contributors, https://github.com/jdecked/twemoji . Graphics licensed under CC BY 4.0, https://creativecommons.org/licenses/by/4.0/ . Distributed via @twemoji/svg; its package license is included. No artwork modifications.
